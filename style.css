@@ -845,6 +845,25 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+/*Formulaire*/
+
+/*Adresse*/
+
+.formulaire
+{
+    margin-top: 20px;
+}
+
+
+.formulaire p
+{
+    margin: 0;
+}
+
+
+
+
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;

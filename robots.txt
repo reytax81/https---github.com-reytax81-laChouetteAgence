@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /page2.html
+disallow:
+Sitemap: https://reytax81.github.io/https---github.com-reytax81-laChouetteAgence/
