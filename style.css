@@ -478,6 +478,26 @@ button {
 .icon-md {
     font-size: 30px!important;
 }
+/*Rajout des paragraphes à la place des images*/
+h4
+{
+    font-size: 22px;
+    line-height: 150%;
+}
+
+.voffset h4
+{
+    font-size: 20px;
+    line-height: 130%;
+    font-style: italic;
+
+}
+
+.voffset h4 em
+{
+    font-size: 13px;
+}
+
 
 .icon-lg {
     font-size: 60px!important;
@@ -548,7 +568,7 @@ a[data-lightbox]:hover::before {
     color: #FFF;
     font-weight: 100;
     z-index: 1;
-    position: absolute;
+    position:absolute;
     top: 50%;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
@@ -677,7 +697,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
@@ -727,7 +747,7 @@ h1 {
 }
 
 h4 {
-    color: #333333!important;
+    color: #575757!important;
 }
 
 .icons {
