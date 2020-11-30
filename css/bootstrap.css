@@ -1784,6 +1784,7 @@ a.bg-danger:hover {
 
 ol,
 ul {
+    line-height: 1.8em;
     margin-top: 0;
     margin-bottom: 10px
 }
